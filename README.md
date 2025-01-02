@@ -31,6 +31,26 @@ The **phoeniX** partially reconfigurable platform inludes an `RV32IEM` core desi
 - [**PhoeniX: A RISC-V Platform for Approximate Computing Technical Specifications (2023)**](http://www.iust.ac.ir/content/76158/phoeniX-POINTS--A-RISC-V-Platform-for-Approximate-Computing)
     - Arvin Delavari, Faraz Ghoreishy, Hadi Shahriar Shahhoseini and Sattar Mirzakuchaki
 
+## The Team
+
+<style>
+td, th {border: none!important;}
+</style>
+
+### Supervisor Professors
+|                         |                              |
+|-------------------------|------------------------------|
+|![SM]()                  |![HS]()                       |
+|Sattar Mirzakuchaki, PhD |Hadi Shahriar Shahhoseini, PhD|
+|Professor                |Associate Professor           |
+
+### Students
+|                   |                  |                  |
+|-------------------|------------------|------------------|
+|![Arvin]()         |![Faraz]()        |![Maedeh]()       |
+|Arvin Delavari     |Faraz Ghoreishy   |Maedeh Ghaderi    |
+|Research Assisstant|Research Assistant|Research Assistant|
+
 
 ## Contact Us
 
