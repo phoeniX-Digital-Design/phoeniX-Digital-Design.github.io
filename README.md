@@ -35,6 +35,10 @@ The **phoeniX** partially reconfigurable platform inludes an `RV32IEM` core desi
 
 ### Supervising Professors
 
+<style>
+td, th {border: none!important;}
+</style>
+
 | Sattar Mirzakuchaki, PhD | Hadi Shahriar Shahhoseini, PhD |
 |--------------------------|--------------------------------|
 |![SM]()                   |![HS]()                         |
