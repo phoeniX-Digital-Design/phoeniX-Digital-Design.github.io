@@ -1,4 +1,4 @@
-![phoeniX_logo](/assets/logos/phoenix_logotype_transparent.png)
+![phoeniX_logo](/assets/logos/phoenix_logotype_page.png)
 
 ## About
 
