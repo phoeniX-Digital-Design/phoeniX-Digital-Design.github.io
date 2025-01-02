@@ -33,23 +33,18 @@ The **phoeniX** partially reconfigurable platform inludes an `RV32IEM` core desi
 
 ## The Team
 
-<style>
-td, th {border: none!important;}
-</style>
-
-### Supervisor Professors
+### Supervising Professors
 |                         |                              |
 |-------------------------|------------------------------|
 |![SM]()                  |![HS]()                       |
 |Sattar Mirzakuchaki, PhD |Hadi Shahriar Shahhoseini, PhD|
 |Professor                |Associate Professor           |
 
-### Students
+### Research Assistants
 |                   |                  |                  |
 |-------------------|------------------|------------------|
 |![Arvin]()         |![Faraz]()        |![Maedeh]()       |
 |Arvin Delavari     |Faraz Ghoreishy   |Maedeh Ghaderi    |
-|Research Assisstant|Research Assistant|Research Assistant|
 
 
 ## Contact Us
