@@ -1,5 +1,3 @@
-School of Electrical Engineering, Iran University of Science and Technology
-
 ![phoeniX_logo](/assets/logos/phoenix_logotype_transparent.png)
 
 ## About
@@ -32,7 +30,6 @@ The **phoeniX** partially reconfigurable platform inludes an `RV32IEM` core desi
 
 - [**PhoeniX: A RISC-V Platform for Approximate Computing Technical Specifications (2023)**](http://www.iust.ac.ir/content/76158/phoeniX-POINTS--A-RISC-V-Platform-for-Approximate-Computing)
     - Arvin Delavari, Faraz Ghoreishy, Hadi Shahriar Shahhoseini and Sattar Mirzakuchaki
-    - Available Online: http://www.iust.ac.ir/content/76158/phoeniX-POINTS--A-RISC-V-Platform-for-Approximate-Computing
 
 
 ## Contact Us
