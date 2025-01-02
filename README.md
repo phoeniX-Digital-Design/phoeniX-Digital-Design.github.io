@@ -9,23 +9,39 @@
 </picture> 
 
 ## About
+
+We are a research team located in the [Electronics Research Center](https://erc.iust.ac.ir/index.php?sid=45&slc_lang=fa) at Iran University of Science and Technology, specializing in computer architecture, high-performance computing, and fault-tolerance in embedded systems. We are passionate about exploring new ideas and developing cutting-edge solutions in these fields. Our projects are freely available and open-source, providing accessibility to individuals interested in embedded systems and VLSI. Our projects are available at our [GitHub page](https://github.com/phoeniX-Digital-Design) and repositories are equipped with thorough documentation, user manuals, and detailed information, facilitating user-friendly navigation and ease of use.
  
-The **phoeniX** RISC-V HW/SW platform inludes an `RV32IEM` core designed in Verilog HDL based on the 32-bit Base Instrcution Set of [RISC-V Instruction Set Architecture](http://riscv.org/) V2.2, with specialized features supported for **approximate computing** techniques.The **phoeniX** is a novel modular and extensive RISC-V processor for approximate computing.
+The **phoeniX** partially reconfigurable platform inludes an `RV32IEM` core designed in Verilog HDL based on the 32-bit Base Instrcution Set of [RISC-V ISA V2.2](http://riscv.org/), with specialized architectural features to support **approximate computing** techniques in a general purpose processor. This platform enables integration of approximate arithmetic circuits at the core level, with different structures, accuracies, timings and etc. without any need for modification in rest of the core, especially in the control logic. This allows configurable trade-offs between perfornmance, application-level quality, and energy efficiency based on user-defined requirements.
 
-The platform enables integration of approximate arithmetic circuits at the core level, with different structures, accuracies, timings and etc. without any need for modification in rest of the core, especially in the control logic. This allows configurable trade-offs between speed, accuracy and power consumption based on application requirements.
+- phoeniX
+- AssembleX
 
+## News
 
+- *30 Oct. 2024:* Our team participated in the [IICM 2024](https://iicm-conf.ir/2024) Conference hosted by the University of Tabriz, presenting our latest publications.
 
-This repository contains an open source RISC-V embedded core, including RTL codes and assistant software, under the [GNU V3.0 license](https://en.wikipedia.org/wiki/GNU_General_Public_License) and is free to use. The platform's technical specifications are published under supervision of [IUST Electronics Research Center](http://idea.iust.ac.ir/content/76317/phoeniX-POINTS--A-RISC-V-Platform-for-Approximate-Computing-Version-0.1-Technical-Specifications).
+- *28 Aug. 2024:* Our team participated in the [Euromicro DSD 2024](https://dsd-seaa.com/dsd2024/) Conference held by Sorbonne University in Paris. Arvin presented our most recent publication with the academic community.
 
+- *24 Dec. 2023:* Highlighting our ongoing research, our team has held a workshop on RISC-V and digital design showcasing our work on the phoeniX processor, held by [Electronic Research Center](https://erc.iust.ac.ir/index.php?sid=45&slc_lang=fa) at IUST.
 
 ## Publications
 
-- A. Delavari, F. Ghoreishy, H. S. Shahhoseini and S. Mirzakuchaki, “Evaluation of Run-Time Energy Efficiency using Controlled Approximation in a RISC-V Core,” 2024 6th Iranian International Conference on Microelectronics (IICM), Tabriz, Iran, 2024.
-    - link
-- A. Delavari, F. Ghoreishy, H. S. Shahhoseini and S. Mirzakuchaki, “A Reconfigurable Approximate Computing RISC-V Platform for Fault-Tolerant Applications,” 2024 27th Euromicro Conference on Digital System Design (DSD), Paris, France, 2024, pp. 81-89.
+- [**Evaluation of Run-Time Energy Efficiency using Controlled Approximation in a RISC-V Core**](https://arxiv.org/abs/2410.07027)
+    - Arvin Delavari, Faraz Ghoreishy, Hadi Shahriar Shahhoseini and Sattar Mirzakuchaki
+    - The 6th Iranian International Conference on Microelectronics (IICM), Tabriz, Iran, 2024
 
-- A. Delavari, F. Ghoreishy, H. S. Shahhoseini and S. Mirzakuchaki (2023), “PhoeniX: A RISC-V Platform for Approximate Computing Technical Specifications,” [Online]. Available: http://www.iust.ac.ir/content/76158/phoeniX-POINTS--A-RISC-V-Platform-for-Approximate-Computing
+- [**Dynamic Power Control in a Hardware Neural Network with Error-Configurable MAC Units**](https://arxiv.org/abs/2410.10545)
+    - Maedeh Ghaderi, Arvin Delavari, Faraz Ghoreishy, and Sattar Mirzakuchaki
+    - The 6th Iranian International Conference on Microelectronics (IICM), Tabriz, Iran, 2024
+
+- [**A Reconfigurable Approximate Computing RISC-V Platform for Fault-Tolerant Applications**](https://ieeexplore.ieee.org/abstract/document/10741850/)
+    - Arvin Delavari, Faraz Ghoreishy, Hadi Shahriar Shahhoseini and Sattar Mirzakuchaki
+    - The 27th Euromicro Conference on Digital System Design (DSD), Paris, France, 2024
+
+- [**PhoeniX: A RISC-V Platform for Approximate Computing Technical Specifications (2023)**](http://www.iust.ac.ir/content/76158/phoeniX-POINTS--A-RISC-V-Platform-for-Approximate-Computing)
+    - Arvin Delavari, Faraz Ghoreishy, Hadi Shahriar Shahhoseini and Sattar Mirzakuchaki
+    - Available Online: http://www.iust.ac.ir/content/76158/phoeniX-POINTS--A-RISC-V-Platform-for-Approximate-Computing
 
 
 ## Contact Us
