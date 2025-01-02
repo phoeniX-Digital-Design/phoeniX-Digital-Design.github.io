@@ -36,15 +36,8 @@ The **phoeniX** partially reconfigurable platform inludes an `RV32IEM` core desi
 ### Supervising Professors
 
 <style>
-table {
-    border-collapse: collapse;
-}
-table, th, td {
-   border: none;
-}
-blockquote {
-    border-left: none;
-    padding-left: 10px;
+td, th {
+   border: none!important;
 }
 </style>
 
@@ -52,13 +45,14 @@ blockquote {
 |--------------------------|--------------------------------|
 |![SM]()                   |![HS]()                         |
 |Professor                 |Associate Professor             |
+| <a href="https://linkedin.com/in/arvin-delavari" target="blank"><img align="" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sattar-mirzakuchaki-759090150" height="15" width="20" /></a>|  | 
 
 ### Research Assistants
 
 | Arvin Delavari    | Faraz Ghoreishy  |Maedeh Ghaderi    |
 |-------------------|------------------|------------------|
 |![Arvin]()         |![Faraz]()        |![Maedeh]()       |
-|                   |                  |                  |
+| <a href="https://linkedin.com/in/arvin-delavari" target="blank"><img align="" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arvin-delavari" height="15" width="20" /></a> <a href="https://github.com/ArvinDelavari" target="blank"><img align="" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="ArvinDelavari" height="16" width="20" /></a>|<a href="https://linkedin.com/in/arvin-delavari" target="blank"><img align="" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="faraz-ghoreishy" height="15" width="20" /></a>|<a href="https://linkedin.com/in/arvin-delavari" target="blank"><img align="" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maedeghaderi" height="15" width="20" /></a>|
 
 
 ## Contact Us
