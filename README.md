@@ -68,8 +68,22 @@ We are looking for passionate researchers and students interested in **Computer 
 
 Current graduate and undergraduate students at IUST are encouraged to directly reach out to [Dr. Mirzakuchaki](mailto:m_kuchaki@iust.ac.ir) or [Dr. Shahhoseini](mailto:shahhoseini@iust.ac.ir) and complete the Electronics Research Center application form.
 
-<p align="center" >
-<img src="./assets/social/ERC.png"  alt="ERC" height="100"/>
-<img src="./assets/logos/phoenix_logo.png" alt="phoeniX" height="110"/> 
-<img src="./assets/social/CompOrg_wb_transparent_light.png"  alt="ERC" height="100"/>
-</p>
+
+<div style="text-align: center; margin-top: 50px">
+    <div style="display: inline-block; margin: 0 10px; text-align: center;">
+        <img src="./assets/social/ERC.png" alt="ERC" height="100" style="display: block; margin: 0 auto">
+        <p style="text-align: center;">Electronic Research Center</p>
+    </div>
+    <div style="display: inline-block; margin: 0 10px; text-align: center;">
+        <img src="./assets/social/DID.png" alt="DID" height="100" style="display: block; margin: 0 auto">
+        <p style="text-align: center;">Digital IC Design Lab</p>
+    </div>
+    <div style="display: inline-block; margin: 0 10px; text-align: center;">
+        <img src="./assets/social/SCaN.png" alt="SCaN" height="100" style="display: block; margin: 0 auto">
+        <p style="text-align: center;">SCaN Lab</p>
+    </div>
+    <div style="display: inline-block; margin: 0 10px; text-align: center;">
+        <img src="./assets/logos/phoenix_logo.png" alt="phoeniX" height="100" style="display: block; margin: 0 auto">
+        <p style="text-align: center;">The phoeniX Project</p>
+    </div>
+</div>
