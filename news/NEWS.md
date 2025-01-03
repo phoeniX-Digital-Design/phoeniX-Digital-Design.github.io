@@ -35,4 +35,4 @@ Highlighting our ongoing research, our team has held a workshop on RISC-V and ap
 
 The phoeniX project is now **ONLINE**! Check out our latest release on [GitHub](https://github.com/phoeniX-Digital-Design/phoeniX).
 
-[Back to Homepage.](./README.md)
+[Back to Homepage.](https://phoenix-digital-design.github.io/)
