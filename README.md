@@ -71,7 +71,9 @@ Current graduate and undergraduate students at IUST are encouraged to directly r
 
 <div style="text-align: center; margin-top: 50px">
     <div style="display: inline-block; margin: 0 10px; text-align: center;">
-        <img src="./assets/social/ERC.png" alt="ERC" height="100" style="display: block; margin: 0 auto">
+        <a href="https://erc.iust.ac.ir/index.php?sid=45&slc_lang=fa" target="_blank">
+            <img src="./assets/social/ERC.png" alt="ERC" height="100" style="display: block; margin: 0 auto">
+        </a>
         <p style="text-align: center;">Electronic Research Center</p>
     </div>
     <div style="display: inline-block; margin: 0 10px; text-align: center;">
@@ -79,11 +81,15 @@ Current graduate and undergraduate students at IUST are encouraged to directly r
         <p style="text-align: center;">Digital IC Design Lab</p>
     </div>
     <div style="display: inline-block; margin: 0 10px; text-align: center;">
-        <img src="./assets/social/SCaN.png" alt="SCaN" height="100" style="display: block; margin: 0 auto">
+        <a href="https://erc.iust.ac.ir/page/10787/SCaN-Lab." target="_blank">
+            <img src="./assets/social/SCaN.png" alt="SCaN" height="100" style="display: block; margin: 0 auto">
+        </a>
         <p style="text-align: center;">SCaN Lab</p>
     </div>
     <div style="display: inline-block; margin: 0 10px; text-align: center;">
-        <img src="./assets/logos/phoenix_logo.png" alt="phoeniX" height="100" style="display: block; margin: 0 auto">
+        <a href="https://github.com/phoeniX-Digital-Design/phoeniX" target="_blank">
+            <img src="./assets/logos/phoenix_logo.png" alt="phoeniX" height="100" style="display: block; margin: 0 auto">
+        </a>
         <p style="text-align: center;">The phoeniX Project</p>
     </div>
 </div>
