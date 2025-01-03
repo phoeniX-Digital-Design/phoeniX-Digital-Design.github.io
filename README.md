@@ -1,5 +1,12 @@
+<style>
+td, th {
+   border: none!important;
+}
+</style>
+
 | [About](#about) | [News](/news/NEWS.md) | [Publications](#publications) | [Team](#the-team) | [Contact](#contact-us) |
 |:---------------:|:---------------------:|:-----------------------------:|:-----------------:|:----------------------:|
+
 
 ![phoeniX_logo](/assets/logos/phoenix_logotype_page.png)
 
