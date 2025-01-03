@@ -14,9 +14,9 @@
             <p style="display: block; margin: 0 15px; text-align: center; color: #24292e;">Projects</p>
         </a>
     </div>
-    <div style="display: inline-block; margin: 0 0; text-align: center; border-right: 2px solid #575757">
+    <div style="display: inline-block; margin: 0 0; text-align: center">
         <a href="https://phoenix-digital-design.github.io/software/software.html" target="blank">
-            <p style="display: block; margin: 0 15px; text-align: center; color: #24292e;>Software</p>
+            <p style="display: block; margin: 0 15px; text-align: center; color: #24292e;">Software</p>
         </a>
     </div>
     <div style="display: inline-block; margin: 0 0; text-align: center; border-right: 2px solid #575757">
