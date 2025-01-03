@@ -1,10 +1,13 @@
+| [About](#about) | [News](/news/NEWS.md) | [Publications](#publications) | [Team](#the-team) | [Contact](#contact-us) |
+|:---------------:|:---------------------:|:-----------------------------:|:-----------------:|:----------------------:|
+
 ![phoeniX_logo](/assets/logos/phoenix_logotype_page.png)
 
 ## About
 
 We are a research team located in the [Electronics Research Center](https://erc.iust.ac.ir/index.php?sid=45&slc_lang=fa) at Iran University of Science and Technology (IUST), specializing in computer architecture, high-performance computing, and fault-tolerance in embedded systems. We are passionate about exploring new ideas and developing cutting-edge solutions in these fields. Our projects are open-source, and freely available at our [GitHub page](https://github.com/phoeniX-Digital-Design) along with thorough documentation, user manuals, and detailed information, facilitating user-friendly navigation and ease of use.
  
-The **phoeniX** partially-reconfigurable platform includes an `RV32IEM` core designed in Verilog HDL based on the 32-bit Base Instrcution Set of [RISC-V ISA V2.2](http://riscv.org/), with specialized architectural features and an API to support **approximate computing** techniques in a general-purpose processor. This platform enables integration of accurate/approximate arithmetic circuits at the core level, with different structures, accuracies, timings and etc. without any need for modification in rest of the core, especially in the control logic. This allows configurable trade-offs between performance, application-level quality, and energy efficiency based on user-defined requirements. For more details check project's [repository]() and our [publications](#publications)!
+The **phoeniX** partially-reconfigurable platform includes an `RV32IEM` core designed in Verilog HDL based on the 32-bit Base Instrcution Set of [RISC-V ISA V2.2](http://riscv.org/), with specialized architectural features and an API to support **approximate computing** techniques in a general-purpose processor. This platform enables integration of accurate/approximate arithmetic circuits at the core level, with different structures, accuracies, timings and etc. without any need for modification in rest of the core, especially in the control logic. This allows configurable trade-offs between performance, application-level quality, and energy efficiency based on user-defined requirements. For more details check project's [repository](https://github.com/phoeniX-Digital-Design/phoeniX) and our [publications](#publications)!
 
 ## News
 
@@ -15,6 +18,8 @@ The **phoeniX** partially-reconfigurable platform includes an `RV32IEM` core des
 - *24 Dec. 2023:* Highlighting our ongoing research, our team has held a workshop on RISC-V and approximate computing showcasing our work on the phoeniX processor, held by [Electronic Research Center](https://erc.iust.ac.ir/index.php?sid=45&slc_lang=fa) at IUST. ([view more](/news/NEWS.md))
 
 - *27 Nov. 2023:* The phoeniX project is now ONLINE! Check out our project's repository on [GitHub](https://github.com/phoeniX-Digital-Design/phoeniX). ([view more](/news/NEWS.md))
+
+- [View more.](/news/NEWS.md)
 
 ## Publications
 
