@@ -5,27 +5,27 @@
         </a>
     </div>
     <div style="display: inline-block; margin: 0 0; text-align: center; border-right: 2px solid #575757">
-        <a href="/news/news.md" target="blank">
+        <a href="https://phoenix-digital-design.github.io/news/news.html" target="blank">
             <p style="display: block; margin: 0 15px; text-align: center;">News</p>
         </a>
     </div>
     <div style="display: inline-block; margin: 0 0; text-align: center; border-right: 2px solid #575757">
-        <a href="/projects/projects.md" target="blank">
+        <a href="https://phoenix-digital-design.github.io/projects/projects.html" target="blank">
             <p style="display: block; margin: 0 15px; text-align: center;">Projects</p>
         </a>
     </div>
     <div style="display: inline-block; margin: 0 0; text-align: center; border-right: 2px solid #575757">
-        <a href="/software/software.md" target="blank">
+        <a href="https://phoenix-digital-design.github.io/software/software.html" target="blank">
             <p style="display: block; margin: 0 15px; text-align: center;">Software</p>
         </a>
     </div>
     <div style="display: inline-block; margin: 0 0; text-align: center; border-right: 2px solid #575757">
-        <a href="#The Team" target="blank">
+        <a href="https://phoenix-digital-design.github.io/#the-team" target="blank">
             <p style="display: block; margin: 0 15px; text-align: center;">The Team</p>
         </a>
     </div>
     <div style="display: inline-block; margin: 0 0; text-align: center">
-        <a href="#Contact Us" target="blank">
+        <a href="https://phoenix-digital-design.github.io/#contact-us" target="blank">
             <p style="display: block; margin: 0 15px; text-align: center;">Contact Us</p>
         </a>
     </div>
