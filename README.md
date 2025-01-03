@@ -1,32 +1,32 @@
-<div style="text-align: center; margin-bottom: 20px">
+<div style="text-align: center; margin-bottom: 20px;>
     <div style="display: inline-block; margin: 0 0; text-align: center; border-right: 2px solid #575757">
         <a href="https://phoenix-digital-design.github.io/" target="blank">
-            <p style="display: block; margin: 0 15px; text-align: center;">Home</p>
+            <p style="display: block; margin: 0 15px; text-align: center; color: #575757">Home</p>
         </a>
     </div>
     <div style="display: inline-block; margin: 0 0; text-align: center; border-right: 2px solid #575757">
         <a href="https://phoenix-digital-design.github.io/news/news.html" target="blank">
-            <p style="display: block; margin: 0 15px; text-align: center;">News</p>
+            <p style="display: block; margin: 0 15px; text-align: center; color: #575757">News</p>
         </a>
     </div>
     <div style="display: inline-block; margin: 0 0; text-align: center; border-right: 2px solid #575757">
         <a href="https://phoenix-digital-design.github.io/projects/projects.html" target="blank">
-            <p style="display: block; margin: 0 15px; text-align: center;">Projects</p>
+            <p style="display: block; margin: 0 15px; text-align: center; color: #575757">Projects</p>
         </a>
     </div>
     <div style="display: inline-block; margin: 0 0; text-align: center; border-right: 2px solid #575757">
         <a href="https://phoenix-digital-design.github.io/software/software.html" target="blank">
-            <p style="display: block; margin: 0 15px; text-align: center;">Software</p>
+            <p style="display: block; margin: 0 15px; text-align: center; color: #575757">Software</p>
         </a>
     </div>
     <div style="display: inline-block; margin: 0 0; text-align: center; border-right: 2px solid #575757">
         <a href="https://phoenix-digital-design.github.io/#the-team" target="blank">
-            <p style="display: block; margin: 0 15px; text-align: center;">The Team</p>
+            <p style="display: block; margin: 0 15px; text-align: center; color: #575757">The Team</p>
         </a>
     </div>
     <div style="display: inline-block; margin: 0 0; text-align: center">
         <a href="https://phoenix-digital-design.github.io/#contact-us" target="blank">
-            <p style="display: block; margin: 0 15px; text-align: center;">Contact Us</p>
+            <p style="display: block; margin: 0 15px; text-align: center; color: #575757">Contact Us</p>
         </a>
     </div>
 </div>
