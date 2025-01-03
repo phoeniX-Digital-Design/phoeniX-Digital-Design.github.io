@@ -31,7 +31,7 @@
     </div>
 </div>
 
-![phoeniX_logo](/assets/logos/phoenix_logotype_page.png)
+![phoeniX_logo](/assets/social/phoenix_logotype_page.png)
 
 ## About
 
