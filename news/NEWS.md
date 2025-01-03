@@ -1,8 +1,3 @@
----
-title: News
-filename: NEWS.md
---- 
-
 # News
 
 ### **30 Oct. 2024** 
@@ -11,7 +6,7 @@ Our team participated in the [6th Iranian International Conference on Microelect
 
 <p align="center" >
 <img src="../news/images/IICM_1.jpg"  alt="IICM_1" height="150"/>
-<img src="../news/images/IICM_2.jpg"  alt="IICM_2" height="150"/>
+<img src="../news/images/IICM_2.JPG"  alt="IICM_2" height="150"/>
 <img src="../news/images/IICM_3.jpg"  alt="IICM_3" height="150"/>
 </p>
 
@@ -33,7 +28,7 @@ Highlighting our ongoing research, our team has held a workshop on RISC-V and ap
 <img src="../news/images/2.JPG"  alt="1" height="150"/>
 <img src="../news/images/4.JPG"  alt="2" height="150"/>
 <img src="../news/images/5.JPG"  alt="3" height="150"/>
-<img src="../news/images/ERC_Poster.JPG"  alt="4" height="150"/>
+<img src="../news/images/ERC_Poster.jpg"  alt="4" height="150"/>
 <img src="../news/images/1.JPG"  alt="5" height="150"/>
 </p>
 

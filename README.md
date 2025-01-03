@@ -1,8 +1,3 @@
----
-title: phoeniX
-filename: README.md
---- 
-
 ![phoeniX_logo](/assets/logos/phoenix_logotype_page.png)
 
 ## About
@@ -17,7 +12,7 @@ The **phoeniX** partially-reconfigurable platform includes an `RV32IEM` core des
 
 - *28 Aug. 2024:* Our team participated in the [Euromicro DSD 2024](https://dsd-seaa.com/dsd2024/) Conference held by Sorbonne University in Paris. Arvin presented our most recent publication with the academic community. ([view more](/news/NEWS.md))
 
-- *24 Dec. 2023:* Highlighting our ongoing research, our team has held a workshop on RISC-V and digital design showcasing our work on the phoeniX processor, held by [Electronic Research Center](https://erc.iust.ac.ir/index.php?sid=45&slc_lang=fa) at IUST. ([view more](/news/NEWS.md))
+- *24 Dec. 2023:* Highlighting our ongoing research, our team has held a workshop on RISC-V and approximate computing showcasing our work on the phoeniX processor, held by [Electronic Research Center](https://erc.iust.ac.ir/index.php?sid=45&slc_lang=fa) at IUST. ([view more](/news/NEWS.md))
 
 - *27 Nov. 2023:* The phoeniX project is now ONLINE! Check out our project's repository on [GitHub](https://github.com/phoeniX-Digital-Design/phoeniX). ([view more](/news/NEWS.md))
 
@@ -72,7 +67,7 @@ We are looking for passionate researchers and students interested in **Computer 
 Current graduate and undergraduate students at IUST are encouraged to directly reach out to [Dr. Mirzakuchaki](mailto:m_kuchaki@iust.ac.ir) or [Dr. Shahhoseini](mailto:shahhoseini@iust.ac.ir) and complete the Electronics Research Center application form.
 
 <p align="center" >
-<img src="./assets/social/ERC.png"  alt="ERC" width="100"/>
-<img src="./assets/logos/phoenix_logo.png" alt="phoeniX" width="110"/> 
-<img src="./assets/social/CompOrg_wb_transparent_light.png"  alt="ERC" width="100"/>
+<img src="./assets/social/ERC.png"  alt="ERC" height="100"/>
+<img src="./assets/logos/phoenix_logo.png" alt="phoeniX" height="110"/> 
+<img src="./assets/social/CompOrg_wb_transparent_light.png"  alt="ERC" height="100"/>
 </p>
