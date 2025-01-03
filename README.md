@@ -1,41 +1,10 @@
-<html>
-<head>
-  <meta charset="UTF-8">
-  <style>
-    .navbar {
-      display: flex;
-      justify-content: space-around;
-      align-items: center;
-      background-color: #333;
-      padding: 10px 0;
-      position: fixed;
-      top: 0;
-      width: 90%;
-      z-index: 500;
-    }
-
-    .navbar a {
-      color: white;
-      text-decoration: none;
-      padding: 10px 15px;
-      font-size: 16px;
-    }
-
-    body {
-      margin: 0;
-      padding-top: 50px; 
-    }
-  </style>
-</head>
-<body>
-
-<div class="navbar">
-    <a href="#section1">Home</a>
-    <a href="#section2">News</a>
-    <a href="#section3">Projects</a>
-    <a href="#section3">Software</a>
-    <a href="#section4">Team</a>
-    <a href="#section4">Contact Us</a>
+<div>
+    <a href="https://phoenix-digital-design.github.io/">Home</a>
+    <a href="/news/news.md">News</a>
+    <a href="/projects/projects.md">Projects</a>
+    <a href="/software/software.md">Software</a>
+    <a href="#The Team">Team</a>
+    <a href="#Contact Us">Contact Us</a>
 </div>
 
 ![phoeniX_logo](/assets/logos/phoenix_logotype_page.png)
