@@ -1,16 +1,11 @@
-<style>
-td, th {
-   border: none!important;
-}
-</style>
-
-| [About](#about) | [News](/news/NEWS.md) | [Publications](#publications) | [Team](#the-team) | [Contact](#contact-us) |
-|:---------------:|:---------------------:|:-----------------------------:|:-----------------:|:----------------------:|
-
-
 ![phoeniX_logo](/assets/logos/phoenix_logotype_page.png)
 
 ## About
+
+|[About](#about) | [News](/news/NEWS.md) | [Publications](#publications) | [Team](#the-team) | [Contact](#contact-us) |
+|:---------------:|:---------------------:|:-----------------------------:|:-----------------:|:----------------------:|
+
+
 
 We are a research team located in the [Electronics Research Center](https://erc.iust.ac.ir/index.php?sid=45&slc_lang=fa) at Iran University of Science and Technology (IUST), specializing in computer architecture, high-performance computing, and fault-tolerance in embedded systems. We are passionate about exploring new ideas and developing cutting-edge solutions in these fields. Our projects are open-source, and freely available at our [GitHub page](https://github.com/phoeniX-Digital-Design) along with thorough documentation, user manuals, and detailed information, facilitating user-friendly navigation and ease of use.
  
