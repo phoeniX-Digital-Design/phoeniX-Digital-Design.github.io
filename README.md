@@ -7,19 +7,19 @@ We are a research team located in the [Electronics Research Center](https://erc.
 The **phoeniX** partially-reconfigurable platform includes an `RV32IEM` core designed in Verilog HDL based on the 32-bit Base Instrcution Set of [RISC-V ISA V2.2](http://riscv.org/), with specialized architectural features and an API to support **approximate computing** techniques in a general-purpose processor. This platform enables integration of accurate/approximate arithmetic circuits at the core level, with different structures, accuracies, timings and etc. without any need for modification in rest of the core, especially in the control logic. This allows configurable trade-offs between performance, application-level quality, and energy efficiency based on user-defined requirements. For more details check project's [repository](https://github.com/phoeniX-Digital-Design/phoeniX) and our [publications](#publications)!
 
 - Related software and releases can be found [here](/software/software.md).
-- Past and ongoing projects can be found [here]().
+- Past and ongoing projects can be found [here](/projects/projects.md).
 
 ## News
 
-- *30 Oct. 2024:* Our team participated in the [IICM 2024](https://iicm-conf.ir/2024) Conference hosted by the University of Tabriz, presenting our latest publications. ([view more](/news/NEWS.md))
+- *30 Oct. 2024:* Our team participated in the [IICM 2024](https://iicm-conf.ir/2024) Conference hosted by the University of Tabriz, presenting our latest publications. ([view more](/news/news.md))
 
-- *28 Aug. 2024:* Our team participated in the [Euromicro DSD 2024](https://dsd-seaa.com/dsd2024/) Conference held by Sorbonne University in Paris. Arvin presented our most recent publication with the academic community. ([view more](/news/NEWS.md))
+- *28 Aug. 2024:* Our team participated in the [Euromicro DSD 2024](https://dsd-seaa.com/dsd2024/) Conference held by Sorbonne University in Paris. Arvin presented our most recent publication with the academic community. ([view more](/news/news.md))
 
-- *24 Dec. 2023:* Highlighting our ongoing research, our team has held a workshop on RISC-V and approximate computing showcasing our work on the phoeniX processor, held by [Electronic Research Center](https://erc.iust.ac.ir/index.php?sid=45&slc_lang=fa) at IUST. ([view more](/news/NEWS.md))
+- *24 Dec. 2023:* Highlighting our ongoing research, our team has held a workshop on RISC-V and approximate computing showcasing our work on the phoeniX processor, held by [Electronic Research Center](https://erc.iust.ac.ir/index.php?sid=45&slc_lang=fa) at IUST. ([view more](/news/news.md))
 
-- *27 Nov. 2023:* The phoeniX project is now ONLINE! Check out our project's repository on [GitHub](https://github.com/phoeniX-Digital-Design/phoeniX). ([view more](/news/NEWS.md))
+- *27 Nov. 2023:* The phoeniX project is now ONLINE! Check out our project's repository on [GitHub](https://github.com/phoeniX-Digital-Design/phoeniX). ([view more](/news/news.md))
 
-- [View more.](/news/NEWS.md)
+- [View more.](/news/news.md)
 
 ## Publications
 
