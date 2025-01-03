@@ -27,13 +27,12 @@ Highlighting our ongoing research, our team has held a workshop on RISC-V and ap
 <p align="center" >
 <img src="../news/images/2.JPG"  alt="1" height="150"/>
 <img src="../news/images/4.JPG"  alt="2" height="150"/>
-<img src="../news/images/5.JPG"  alt="3" height="150"/>
 <img src="../news/images/ERC_Poster.jpg"  alt="4" height="150"/>
-<img src="../news/images/1.JPG"  alt="5" height="150"/>
+<img src="../news/images/5.JPG"  alt="3" height="150"/>
 </p>
 
 ### **27 Nov. 2023** 
 
 The phoeniX project is now **ONLINE**! Check out our latest release on [GitHub](https://github.com/phoeniX-Digital-Design/phoeniX).
 
-[Back to Homepage.](/README.md)
+[Back to Homepage.](./README.md)
