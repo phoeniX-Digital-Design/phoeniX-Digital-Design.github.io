@@ -44,23 +44,23 @@ The **phoeniX** partially-reconfigurable platform includes an `RV32IEM` core des
 
 ## News
 
+- *11 Jan. 2025:* Our latest papers from the [IICM 2024](https://iicm-conf.ir/2024) are now available at IEEE Xplore digital library. ([view more](/news/news.md))
+
 - *30 Oct. 2024:* Our team participated in the [IICM 2024](https://iicm-conf.ir/2024) Conference hosted by the University of Tabriz, presenting our latest publications. ([view more](/news/news.md))
 
 - *28 Aug. 2024:* Our team participated in the [Euromicro DSD 2024](https://dsd-seaa.com/dsd2024/) Conference held by Sorbonne University in Paris. Arvin presented our most recent publication with the academic community. ([view more](/news/news.md))
 
 - *24 Dec. 2023:* Highlighting our ongoing research, our team has held a workshop on RISC-V and approximate computing showcasing our work on the phoeniX processor, held by [Electronic Research Center](https://erc.iust.ac.ir/index.php?sid=45&slc_lang=fa) at IUST. ([view more](/news/news.md))
 
-- *27 Nov. 2023:* The phoeniX project is now ONLINE! Check out our project's repository on [GitHub](https://github.com/phoeniX-Digital-Design/phoeniX). ([view more](/news/news.md))
-
 - [View more.](/news/news.md)
 
 ## Publications
 
-- [**Evaluation of Run-Time Energy Efficiency using Controlled Approximation in a RISC-V Core**](https://arxiv.org/abs/2410.07027)
+- [**Evaluation of Run-Time Energy Efficiency using Controlled Approximation in a RISC-V Core**](https://ieeexplore.ieee.org/document/10824628)
     - Arvin Delavari, Faraz Ghoreishy, Hadi Shahriar Shahhoseini and Sattar Mirzakuchaki
     - The 6th Iranian International Conference on Microelectronics (IICM), Tabriz, Iran, 2024
 
-- [**Dynamic Power Control in a Hardware Neural Network with Error-Configurable MAC Units**](https://arxiv.org/abs/2410.10545)
+- [**Dynamic Power Control in a Hardware Neural Network with Error-Configurable MAC Units**](https://ieeexplore.ieee.org/document/10824471)
     - Maedeh Ghaderi, Arvin Delavari, Faraz Ghoreishy, and Sattar Mirzakuchaki
     - The 6th Iranian International Conference on Microelectronics (IICM), Tabriz, Iran, 2024
 

@@ -33,6 +33,18 @@
 
 # News
 
+### **11 Jan. 2025:**
+
+ Our latest papers from the [IICM 2024](https://iicm-conf.ir/2024) are now available at IEEE Xplore digital library. ([view more](/news/news.md))
+
+- **Evaluation of Run-Time Energy Efficiency using Controlled Approximation in a RISC-V Core** [[Link](https://ieeexplore.ieee.org/document/10824628)]
+    - Arvin Delavari, Faraz Ghoreishy, Hadi Shahriar Shahhoseini and Sattar Mirzakuchaki
+    - The 6th Iranian International Conference on Microelectronics (IICM), Tabriz, Iran, 2024
+
+- **Dynamic Power Control in a Hardware Neural Network with Error-Configurable MAC Units** [[Link](https://ieeexplore.ieee.org/document/10824471)]
+    - Maedeh Ghaderi, Arvin Delavari, Faraz Ghoreishy, and Sattar Mirzakuchaki
+    - The 6th Iranian International Conference on Microelectronics (IICM), Tabriz, Iran, 2024
+
 ### **30 Oct. 2024** 
 
 Our team participated in the [6th Iranian International Conference on Microelectronics (IICM) 2024](https://iicm-conf.ir/2024) hosted by the University of Tabriz, presenting our latest publications. Arvin presented a paper on the phoeniX platform, named "[Evaluation of Run-Time Energy Efficiency using Controlled Approximation in a RISC-V Core](https://arxiv.org/abs/2410.07027)", and Maedeh presented her paper on utilization of approximate computing in hardware Neural Networks, titled "[Dynamic Power Control in a Hardware Neural Network with Error-Configurable MAC Units](https://arxiv.org/abs/2410.10545)".
@@ -63,6 +75,10 @@ Highlighting our ongoing research, our team has held a workshop on RISC-V and ap
 <img src="../news/images/ERC_Poster.jpg"  alt="4" height="150"/>
 <img src="../news/images/5.JPG"  alt="3" height="150"/>
 </p>
+
+### **21 Dec. 2023** 
+
+Arvin was awarded the School of Electrical Engineering Summer Internship Poster Award for his research in Computer Architecture during the summer of 2023. His work was conducted at the Electronics Research Center within the Digital IC Design Lab. Congratulations, Arvin! 
 
 ### **27 Nov. 2023** 
 
